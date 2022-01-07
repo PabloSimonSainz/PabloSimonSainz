@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![Metrics](https://github.com/irg1008/PabloSimonSainz/blob/main/github-metrics.svg)
